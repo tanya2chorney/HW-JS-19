@@ -1,6 +1,6 @@
 /* Завдання 1-2 */
 
-/* .backdrop {
+.backdrop {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -37,7 +37,7 @@ body.show-modal .backdrop {
 
 body.show-modal .modal {
   transform: scale(1);
-} */
+}
 
 
 /* завдання 5 */
